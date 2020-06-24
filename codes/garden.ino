@@ -1,6 +1,6 @@
 //ρελεδες
-#define relay1 21 //Σύνδεση relay1 στο pin 21 
-#define relay2 23 //Σύνδεση relay2 στο pin 23
+#define relay1 23 //Σύνδεση relay1 στο pin 21 
+#define relay2 25 //Σύνδεση relay2 στο pin 23
 #define sw1 15 //Διακόπτης Χειροκίνιτου Ελέγχου
 #define sw2 16 //Διακόπτης Χειροκίνιτου Ελέγχου
 
@@ -26,8 +26,8 @@ int limit2 = 300;
 
 
 //Fans
-#define relay3 25 //Ενεργοποίηση Ανεμιστήρα 1
-#define relay4 27 //Ενεργοποίηση Ανεμιστήρα 2
+#define relay3 27 //Ενεργοποίηση Ανεμιστήρα 1
+#define relay4 29 //Ενεργοποίηση Ανεμιστήρα 2
 #define sw3 17 //Διακοπτης Χειροκίνιτου Ελέγχου Ανεμιστήρα 1
 #define sw4 18 //Διακοπτης Χειροκίνιτου Ελέγχου Ανεμιστήρα 2
 
@@ -39,22 +39,22 @@ int limit = 300;
 
 
 //Electric Valve
-#define relay5 29 //Ηλεκτροβάνα για Πότισμα
+#define relay5 31 //Ηλεκτροβάνα για Πότισμα
 #define sw5 19 //Διακόπτης Χειροκίνιτου Ελέγχου Ηλεκτροβάνας
 
 
 //Led Ανάπτυξης
-#define relay6 31 //Ενεργοποιεί τα Led Ανάπτυξης
+#define relay6 33 //Ενεργοποιεί τα Led Ανάπτυξης
 #define sw6 20 //Διακόπτης Χειροκίνιτου Ελέγχου Led Ανάπτυξης
 
 
 //Lamp temperture
-#define relay7 33 //Λάμπα Θέρμανσης
+#define relay7 35 //Λάμπα Θέρμανσης
 #define sw7 21 //Διακοπτης Χειροκίνιτου Ελέγχου Λάμπα Θέρμανσης
 
 
 //Θέρμανση Νερού
-#define relay8 35 //Θέρμανση Νερού
+#define relay8 37 //Θέρμανση Νερού
 #define sw8 22 //Διακόπτης Χειροκίνιτου Ελέγχου Θέρμανσης Νερού
 
 
@@ -86,21 +86,21 @@ const int lcd_buttons = A0;
 
 
 //HC-SR04   //Αισθητήρας Μέτρησης Απόστασης
-const int trigPin = 37;
-const int echoPin = 39;
+const int trigPin = 28;
+const int echoPin = 30;
 long duration;
 int distance;
 
 
 //Leds   //Μας Δείχνουν Ποιά Συσκευή Λειτουργεί
-const int led1 = 41; 
-const int led2 = 43; 
-const int led3 = 45; 
-const int led4 = 47; 
-const int led5 = 49; 
-const int led6 = 51; 
-const int led7 = 53; 
-const int led8 = 52; 
+const int led1 = 39; 
+const int led2 = 41; 
+const int led3 = 43; 
+const int led4 = 45; 
+const int led5 = 47; 
+const int led6 = 49; 
+const int led7 = 51; 
+const int led8 = 53; 
 
 
 //LedError
