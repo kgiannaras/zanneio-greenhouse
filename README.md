@@ -34,3 +34,7 @@
 Ρυθμιστής φόρτισης                            11 €
 Αισθητήρας υγρασίας χώματος                   1 €
                  Γενικό σύνολο              271 €
+                 
+                 
+                 Περισσότερες λεπτομέρειες στην σελίδα του ΕΛΛΑΚ
+                 https://openedtech.ellak.gr/robotics2020/thermokipio-me-tin-energia-tou-iliou-ke-tou-nerou/
