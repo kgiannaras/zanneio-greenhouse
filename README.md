@@ -36,5 +36,5 @@
                  Γενικό σύνολο              271 €
                  
                  
-                 Περισσότερες λεπτομέρειες στην σελίδα του ΕΛΛΑΚ
-                 https://openedtech.ellak.gr/robotics2020/thermokipio-me-tin-energia-tou-iliou-ke-tou-nerou/
+ Περισσότερες λεπτομέρειες στην σελίδα του ΕΛΛΑΚ
+ https://openedtech.ellak.gr/robotics2020/thermokipio-me-tin-energia-tou-iliou-ke-tou-nerou/
